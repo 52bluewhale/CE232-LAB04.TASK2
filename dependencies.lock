@@ -7,9 +7,9 @@ dependencies:
   protocol_examples_common:
     component_hash: null
     source:
-      path: C:\Users\xiaoy\esp\v5.2\esp-idf\examples\common_components\protocol_examples_common
+      path: C:\Users\phanc\esp\v5.2\esp-idf\examples\common_components\protocol_examples_common
       type: local
     version: '*'
-manifest_hash: 4f1c6830065bfeb0de782fdc34e75d8b4b26822afdd32efab84ebdee9671f1c7
+manifest_hash: 571c70b7432c3f3d770258a819cbcd16a274db562590a006234fab77837842fd
 target: esp32
 version: 1.0.0
